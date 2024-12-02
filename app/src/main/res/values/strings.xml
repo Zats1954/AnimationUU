@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Animation</string>
+    <string name="start_text">Начать</string>
+    <string name="text_sign_up">Регистрация</string>
+    <string name="text_login">Имя пользователя</string>
+    <string name="text_pass">Пароль</string>
+    <string name="text_btn_up">Зарегистрироваться</string>
+    <string name="text_btn_in">Войти</string>
+    <string name="text_sign_in">Авторизоваться</string>
+    <string name="ended_text">     Ура!\nВы успешно залогинились!</string>
+</resources>
