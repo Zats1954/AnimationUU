@@ -13,6 +13,12 @@
         android:theme="@style/Theme.Animation"
         tools:targetApi="31">
         <activity
+            android:name=".BillActivity"
+            android:exported="false" />
+        <activity
+            android:name=".BasketActivity"
+            android:exported="false" />
+        <activity
             android:name=".StartActivity"
             android:exported="false" />
         <activity

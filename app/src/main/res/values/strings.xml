@@ -1,11 +1,7 @@
 <resources>
     <string name="app_name">Animation</string>
-    <string name="start_text">Начать</string>
-    <string name="text_sign_up">Регистрация</string>
-    <string name="text_login">Имя пользователя</string>
-    <string name="text_pass">Пароль</string>
-    <string name="text_btn_up">Зарегистрироваться</string>
-    <string name="text_btn_in">Войти</string>
-    <string name="text_sign_in">Авторизоваться</string>
-    <string name="ended_text">     Ура!\nВы успешно залогинились!</string>
+    <string name="start_text">Начать покупки</string>
+    <string name="exit">Выход</string>
+    <string name="title_text">Продовольственная корзина</string>
+    <string name="bill_title">Магазин \"Перехлесток\"\nг.Верхний Новгород,ул.Фантазеров, 18</string>
 </resources>
